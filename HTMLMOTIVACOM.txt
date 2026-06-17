@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="motivacom.css">
+    <title>Motivacom</title>
+</head>
+<body style="margin: 0; padding: 0;">
+    <h1>
+        Motivacom
+    </h1>
+    <h2>Cuidando da mente, fortalecendo vidas.</h2>
+    <p>A depressão é muito mais do que apenas sentir tristeza. Cientificamente, ela é considerada um transtorno mental que afeta o funcionamento do cérebro, as emoções, os pensamentos e até mesmo o corpo. Pessoas com depressão podem sentir uma tristeza intensa e persistente, perder o interesse por atividades que antes gostavam, apresentar falta de energia, dificuldades para dormir ou dormir em excesso, alterações no apetite e problemas de concentração.
+</p>
+</body>
+</html>
