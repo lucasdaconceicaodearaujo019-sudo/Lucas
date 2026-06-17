@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 400 px;
+    background: linear-gradient(#1436cc, #5573fa);
+    color: black;
+}
+h2{
+    text-align: center;
+    size: 200 px;
+    font-style: italic;
+    color: black;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #e7e8e9, #4b4bf1);
+    min-height: 100vh;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: center;
+}
