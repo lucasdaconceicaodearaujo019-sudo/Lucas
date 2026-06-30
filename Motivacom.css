@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    color: linear-gradient( #F8F8FF, #000000);
+    margin-top: 75px;
+    font-size: 100px;
+background: linear-gradient( #0808f0, #e7e2e2);
+border-radius: 20px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.5;
+}
+body{
+ background: linear-gradient(#ebebf3, #ddcfc9);
+}
+button {
+    background: linear-gradient(135deg, #d3d2e0, #070adf);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button:hover {
+    transform: scale(1.05);
+}
+nav{
+    background: #f4f4f5;
+    padding: 15px;
+    border-radius: 30px;
+    
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 30px;
+
+}
+h2{
+    text-align: center;
+    color: linear-gradient( #F8F8FF, #000000);
+    margin-top: 75px;
+    font-size: 50px;
+}
