@@ -15,5 +15,6 @@ A Motivacom é uma plataforma desenvolvida com o objetivo de oferecer mensagens 
 Nossa missão é mostrar que ninguém precisa enfrentar seus problemas sozinho. Por meio de conteúdos educativos e frases motivacionais, procuramos ajudar os visitantes a encontrar força, esperança e confiança para seguir em frente, um dia de cada vez.
     <br> <br>
 A Motivacom acredita que a informação e o apoio podem fazer a diferença na vida das pessoas, contribuindo para a construção de uma sociedade mais empática, consciente e acolhedora.".</p>
+<button onclick="window.location.href='Motivacomp1.html'">Voltar</button>
 </body>
 </html>
