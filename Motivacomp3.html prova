@@ -42,5 +42,6 @@ Você não precisa estar bem o tempo todo. Respeite seus limites e reconheça qu
 <br> <br> 
 Buscar ajuda profissional é um ato de coragem, não de fraqueza. Psicólogos e médicos podem oferecer tratamentos eficazes, e muitas pessoas conseguem melhorar significativamente com o acompanhamento adequado. Pedir ajuda é um dos passos mais importantes no caminho da recuperação.</p>
 <br> <br> 
+<button onclick="window.location.href='Motivacomp1.html'">Voltar</button>
 </body>
 </html>
